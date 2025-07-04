@@ -15,7 +15,7 @@ A data analysis project exploring the TMDB 5000 Movies dataset to uncover insigh
 - **Language Impact**: How original language affects success
 - **Genre Analysis**: Which genres perform best
 
-## 🛠️ Tech Stack
+## 🛠️ Requirements
 
 - **Python 3.8+**
 - **Pandas** for data manipulation
